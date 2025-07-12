@@ -126,9 +126,7 @@ Tools & Technologies:
 
 📄 My resume is available for download!
 
-Online Version: https://aman-portfolio.dev/resume
-PDF Download:   https://aman-portfolio.dev/resume.pdf
-
+Online Version: https://drive.google.com/file/d/1FR-QJXsbMI4lyp6NhlHgljgagANiCnm5/view?usp=sharing
 Quick Overview:
 ├── Education: BCA+MCA
 ├── Experience: 3+ years in Full-Stack Development
